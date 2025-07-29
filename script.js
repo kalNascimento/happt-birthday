@@ -11,7 +11,7 @@ const texts = [
   <br>Feliz aniversário, querida! Que a felicidade esteja sempre ao seu lado. <br>🎂🎁🎈
   <br>Com carinho <br>😍
   <br>BARDO<br>🤗❤️<br>`,
-  "<br><br>TENUM <br>ÓTIMO <br>DIA!!! <br>❤️ (•́ ω •̀๑)",
+  "<br><br>TENUM <br>ÓTIMO <br>DIA!!! <br>Saphirinha meu amor<br>❤️ (•́ ω •̀๑)",
   "<br><br>Feliz Aniversário!!! <br>(◕‿◕✿)",
   "<br><br>Que seu ano seja cheio de felicidade!<br>🌟🎉<br><br><br>"
 ];
